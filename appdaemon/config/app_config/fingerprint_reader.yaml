@@ -1,0 +1,13 @@
+fingers:
+- datetime: 2023-12-10_14:31:16
+  finger: Mittelfinger_links
+  finger_id: 1
+  lock: Garten
+  status: done
+  user_name: Hans
+- datetime: 2023-12-10_06:55:33
+  finger: Mittelfinger_rechts
+  finger_id: 2
+  lock: Garten
+  status: done
+  user_name: Hans

@@ -1,0 +1,23 @@
+appdaemon:
+  latitude: 52.379189
+  longitude: 4.899431
+  elevation: 2
+  time_zone: Europe/Amsterdam
+  plugins:
+    HASS:
+      type: hass
+      ha_url: https://home-assi-wurmberg.space/
+      token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIyYjU0MTc5NjNhNDM0OTlmYjU2YTI3ODBlZmQ4YzI5MSIsImlhdCI6MTcwMjAyNzQwNiwiZXhwIjoyMDE3Mzg3NDA2fQ.WVdrlkswETU0UtiXmOkbDVpuUiIOmAM8vPNhtDQDrJA
+http:
+  url: http://127.0.0.1:5050
+admin:
+api:
+hadashboard:
+# logs:
+#   main_log:
+#     filename: /config/logs/main.log
+#   error_log:
+#     filename: /config/logs/error.log
+#   klingel_log:
+#     name: klingel
+#     filename: /config/logs/klingel.log

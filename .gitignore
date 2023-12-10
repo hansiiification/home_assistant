@@ -1,0 +1,7 @@
+venv
+appdaemon/config/compiled
+appdaemon/config/logs
+appdaemon/config/namespaces
+appdaemon/config/www
+.DS_Store
+*.pyc

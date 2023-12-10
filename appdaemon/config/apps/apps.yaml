@@ -1,0 +1,3 @@
+fingerptint_reader:
+  module: fingerprint_reader
+  class: FingerprintReader
